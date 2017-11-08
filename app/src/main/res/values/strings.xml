@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleTabApplication</string>
+
+    <string name="helloWorld">Hello world!</string>
+    <string name="actSettings">Settings</string>
+
+    <string name="tab1">Kamu ada di tab 1</string>
+    <string name="tab2">Kamu ada di tab 2</string>
+</resources>
